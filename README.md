@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jonathon!👋
 
 <!--
 **JNejman11/JNejman11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
